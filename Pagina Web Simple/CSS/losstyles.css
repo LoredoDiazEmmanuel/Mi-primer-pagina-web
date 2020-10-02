@@ -1,0 +1,21 @@
+h1{
+    color:red;
+    font-size: 350%;
+}
+
+h2{
+    color:blue;
+    font-size: 40px;
+}
+
+.morado{
+    color:blueviolet;
+    font-size: 120%;
+}
+
+.navion{
+    background: pink;
+    display: flex;
+    justify-content: space-around;
+    }
+
